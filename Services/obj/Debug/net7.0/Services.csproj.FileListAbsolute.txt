@@ -1,0 +1,15 @@
+D:\DotNet\Cama\Services\bin\Debug\net7.0\Services.deps.json
+D:\DotNet\Cama\Services\bin\Debug\net7.0\Services.dll
+D:\DotNet\Cama\Services\bin\Debug\net7.0\Services.pdb
+D:\DotNet\Cama\Services\obj\Debug\net7.0\Services.csproj.AssemblyReference.cache
+D:\DotNet\Cama\Services\obj\Debug\net7.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\Cama\Services\obj\Debug\net7.0\Services.AssemblyInfoInputs.cache
+D:\DotNet\Cama\Services\obj\Debug\net7.0\Services.AssemblyInfo.cs
+D:\DotNet\Cama\Services\obj\Debug\net7.0\Services.csproj.CoreCompileInputs.cache
+D:\DotNet\Cama\Services\obj\Debug\net7.0\Services.dll
+D:\DotNet\Cama\Services\obj\Debug\net7.0\refint\Services.dll
+D:\DotNet\Cama\Services\obj\Debug\net7.0\Services.pdb
+D:\DotNet\Cama\Services\obj\Debug\net7.0\ref\Services.dll
+D:\DotNet\Cama\Services\bin\Debug\net7.0\Data.dll
+D:\DotNet\Cama\Services\bin\Debug\net7.0\Data.pdb
+D:\DotNet\Cama\Services\obj\Debug\net7.0\Services.csproj.CopyComplete

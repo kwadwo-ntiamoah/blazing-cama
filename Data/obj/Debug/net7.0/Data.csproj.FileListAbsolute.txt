@@ -1,0 +1,14 @@
+D:\DotNet\Cama\Data\bin\Debug\net7.0\Data.deps.json
+D:\DotNet\Cama\Data\bin\Debug\net7.0\Data.runtimeconfig.json
+D:\DotNet\Cama\Data\bin\Debug\net7.0\Data.dll
+D:\DotNet\Cama\Data\bin\Debug\net7.0\Data.pdb
+D:\DotNet\Cama\Data\obj\Debug\net7.0\Data.csproj.AssemblyReference.cache
+D:\DotNet\Cama\Data\obj\Debug\net7.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\Cama\Data\obj\Debug\net7.0\Data.AssemblyInfoInputs.cache
+D:\DotNet\Cama\Data\obj\Debug\net7.0\Data.AssemblyInfo.cs
+D:\DotNet\Cama\Data\obj\Debug\net7.0\Data.csproj.CoreCompileInputs.cache
+D:\DotNet\Cama\Data\obj\Debug\net7.0\Data.dll
+D:\DotNet\Cama\Data\obj\Debug\net7.0\refint\Data.dll
+D:\DotNet\Cama\Data\obj\Debug\net7.0\Data.pdb
+D:\DotNet\Cama\Data\obj\Debug\net7.0\Data.genruntimeconfig.cache
+D:\DotNet\Cama\Data\obj\Debug\net7.0\ref\Data.dll
