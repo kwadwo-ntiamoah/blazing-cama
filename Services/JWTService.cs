@@ -23,7 +23,7 @@ namespace Services
             _config = config;
         }
 
-        public AppResponse<Tokens> GenerateToken(List<string> roles)
+        public AppResponse<Tokens> GenerateToken(TokenModel model)
         {
             var response = new AppResponse<Tokens>();
 
@@ -33,11 +33,15 @@ namespace Services
                 var key = Encoding.UTF8.GetBytes(_config["JWT:Key"]);
                 var claims = new List<Claim>();
 
-                foreach(var role in roles)
+                foreach(var role in model.Roles)
                 {
                     var claim = new Claim(ClaimTypes.Role, role);
                     claims.Add(claim);
                 }
+
+                // add Email, Username and Name to claims
+                claims.Add(new Claim(ClaimTypes.Name, model.Name))
+                claims.Add(new Claim(ClaimTypes.Sid, model.Email))
 
                 var descriptor = new SecurityTokenDescriptor
                 {
